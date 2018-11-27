@@ -1,7 +1,0 @@
-﻿{description}
-    Aliases: {commands}
-    Default Options: {defaultoptions}
-    Usage:
-      1. {command}
-    Notes:
-      Catchall command for testing new features

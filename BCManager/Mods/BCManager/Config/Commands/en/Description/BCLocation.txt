@@ -1,1 +1,0 @@
-﻿Location - Gets your current position and stores it in cache for use in other commands

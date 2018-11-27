@@ -1,1 +1,0 @@
-﻿Give Buffs to Entities - Buffs the entity or type of entity with the given buff

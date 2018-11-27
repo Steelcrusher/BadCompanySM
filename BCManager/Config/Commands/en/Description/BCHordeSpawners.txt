@@ -1,1 +1,0 @@
-Horde Spawners - Gets information about the spawn manager system such as active spawns and spawncounts
